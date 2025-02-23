@@ -1,0 +1,45 @@
+.main-content{
+    padding: 2em;
+}
+
+.user-pane{
+    margin: 1.5em;
+    padding: .5em;
+}
+
+#plus-sign{
+    width: 50px;
+}
+
+.top-bar{
+    color: white;
+}
+
+#tipos{
+    display: inline;
+    width: auto;
+}
+
+.prompter {
+    width: 100%;
+    height: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.651);
+    transition: opacity .5s
+}
+
+.prompt {
+    background-color: #282828;
+    display: none;
+    padding: .5em;
+}
+
+.prompt section {
+    padding: 1em;
+}
+
+.prompt h3 {
+    text-align: center;
+}
