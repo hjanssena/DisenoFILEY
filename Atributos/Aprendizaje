@@ -1,0 +1,43 @@
+Aprendizaje
+Medición del atributo
+
+Objetivo: Evaluar la capacidad de los usuarios para desarrollar las funcionalidades asignadas y el tiempo requerido para completarlas.
+Población: Voluntarios que cumplan con los perfiles estándares de los usuarios.
+Preparación:
+Seleccionar a los voluntarios.
+Proporcionarles una descripción clara de las funcionalidades a desarrollar.
+Ejecución:
+Dar a los voluntarios un tiempo específico para desarrollar cada funcionalidad.
+Realizar la encuesta inmediatamente después de completar cada funcionalidad.
+Encuesta:
+Preguntas sobre la facilidad o dificultad para desarrollar cada funcionalidad.
+Preguntas sobre el tiempo requerido para completar cada funcionalidad.
+Preguntas sobre la claridad de las instrucciones proporcionadas.
+
+Funcionalidades del Administrador
+
+1.	Obtener un reporte de un usuario:
+•	Encuesta: Genera el reporte de las ventas de los cambios del día
+•	Tiempo estimado: 2-5minutos.
+
+2.	Registrar un nuevo usuario:
+•	Actividad: añadir un nuevo folio a la lista y asígnale 1 comida.
+•	Tiempo estimado: 2-5 minutos.
+
+3.	Modificar un folio de la lista:
+•	Encuesta: Agrega una comida para el folio XXXXXX.
+•	Tiempo estimado: 1-2 minutos.
+
+Funcionalidades del Proveedor
+
+1.	Leer QR de un usuario:
+•	Encuesta: Escanea el siguiente QR
+•	Tiempo estimado: 1 minuto o menos.
+
+2.	Ver información de un usuario:
+•	Encuesta: Verifica cuantas comidas le quedan al folio sin cambiar ninguna.
+•	Tiempo estimado: 1 minuto.
+
+3.	Canjear una comida:
+•	Encuesta: ¿canjea un alimento del siguiente QR
+•	Tiempo estimado: 1 minuto.
